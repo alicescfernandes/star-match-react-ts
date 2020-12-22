@@ -1,7 +1,0 @@
-function StarsDisplay(){
-
-}
-
-
-
-export {StarsDisplay}
