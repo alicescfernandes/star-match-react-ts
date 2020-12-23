@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/star-match-react-ts/static/css/main.6edf329b.chunk.css",
+    "main.js": "/star-match-react-ts/static/js/main.bcce85f6.chunk.js",
+    "main.js.map": "/star-match-react-ts/static/js/main.bcce85f6.chunk.js.map",
+    "runtime-main.js": "/star-match-react-ts/static/js/runtime-main.53053cc9.js",
+    "runtime-main.js.map": "/star-match-react-ts/static/js/runtime-main.53053cc9.js.map",
+    "static/js/2.b1608c29.chunk.js": "/star-match-react-ts/static/js/2.b1608c29.chunk.js",
+    "static/js/2.b1608c29.chunk.js.map": "/star-match-react-ts/static/js/2.b1608c29.chunk.js.map",
+    "static/js/3.b46f7712.chunk.js": "/star-match-react-ts/static/js/3.b46f7712.chunk.js",
+    "static/js/3.b46f7712.chunk.js.map": "/star-match-react-ts/static/js/3.b46f7712.chunk.js.map",
+    "index.html": "/star-match-react-ts/index.html",
+    "static/css/main.6edf329b.chunk.css.map": "/star-match-react-ts/static/css/main.6edf329b.chunk.css.map",
+    "static/js/2.b1608c29.chunk.js.LICENSE.txt": "/star-match-react-ts/static/js/2.b1608c29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53053cc9.js",
+    "static/js/2.b1608c29.chunk.js",
+    "static/css/main.6edf329b.chunk.css",
+    "static/js/main.bcce85f6.chunk.js"
+  ]
+}
