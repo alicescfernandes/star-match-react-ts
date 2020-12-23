@@ -10,6 +10,7 @@ You just need to choose the numbers that sum to the amount of stars shown in les
 - Custom Hooks
 - Simple State Management 
 - React with function components
+- CI with Travis CI
 
 ## Available Scripts
 
