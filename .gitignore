@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 
+# custom
 .history/
+build/
 
 # testing
 /coverage
