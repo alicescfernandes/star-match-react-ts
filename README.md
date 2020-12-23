@@ -1,4 +1,4 @@
-# Star Match game
+# Star Match game [![Build Status](https://travis-ci.org/alicescfernandes/star-match-react-ts.svg?branch=master)](https://travis-ci.org/alicescfernandes/star-match-react-ts)
 
 This is a project to learn react. Since i don't like to do TODO apps or shopping lists, making small games can be an alternative for this small learning projects.
 
